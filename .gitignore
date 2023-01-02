@@ -136,3 +136,4 @@ luac.out
 ### WoW Development ###
 # Embedded Libriaries
 Libs
+.history/
