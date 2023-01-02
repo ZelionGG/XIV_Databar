@@ -13,6 +13,14 @@ function TravelModule:OnInitialize()
   self.iconPath = xb.constants.mediaPath..'datatexts\\repair'
   self.garrisonHearth = 110560
   self.hearthstones = {
+    193588, -- Timewalker's Hearthstone
+    190237, -- Broker Translocation Matrix
+    188952, -- Dominated Hearthstone
+    184353, -- Kyrian Hearthstone
+    182773, -- Necrolord Hearthstone
+    180290, -- Night Fae Hearthstone
+    183716, -- Venthyr Sinstone
+    172179, -- Eternal Travaler's Hearthstone
     6948,   -- Hearthstone
     64488,  -- Innkeeper's Daughter
     28585,  -- Ruby Slippers
